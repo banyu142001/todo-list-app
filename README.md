@@ -6,7 +6,7 @@
 
  Jika teman-teman tertarik dan ingin mengembangkan Aplikasi ini, dengan senang hati. Kembangkan dengan fitur-fitur terbaik. Projek ini adalah salah satu dari projek latihan saya setelah mempelajari Framowork Codeigniter 4.
 
- ## Tips untuk dapat menjalanlan Websitenya
+ ## Tips untuk dapat menjalankan Websitenya
 
  1. Donwload atau Clone file websitenya
  2. Extract file web tersebut
