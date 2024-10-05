@@ -4,7 +4,7 @@
  terdapat bebrapa fitur utama yang saya kembangkan yaitu List materi pembelajaran, kita dapat melakukan operasi CRUD ( create, read, updata dan delete data ).
  Muncul ide untuk membuat website todo-list ini dimulai ketika saya putuskan untuk fokus mempelajari bahasa pemrograman JavaScript, yang saya buat untuk melist semua materi pembelajaran saya. 
 
- Jika teman-teman tertarik dan ingin mengembangkan Aplikasi ini, dengan senang hati. Kembangkan dengan fitur-fitur terbaik. Projek ini adalah salah satu dari projek latihan saya setelah mempelajari Framowork Codeigniter 4.
+ Jika teman-teman tertarik dan ingin mengembangkan Aplikasi ini, dengan senang hati. Kembangkan dengan fitur-fitur terbaik. Projek ini adalah salah satu dari projek latihan saya setelah mempelajari Framework Codeigniter 4.
 
  ## Tips untuk dapat menjalankan Websitenya
 
